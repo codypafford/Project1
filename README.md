@@ -1,5 +1,4 @@
 # Project1
-Hashing
 i. Purpose of the project: To implement a symbol table that will be used by the assembler during pass 1 and pass 2. The “main” will read a file name off of the command line. Implemented using a hash table.
 
 ii. Source File: Main.java Pair.java HashTable.java
